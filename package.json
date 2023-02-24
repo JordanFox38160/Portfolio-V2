@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "react-animate-on-scroll": "^2.1.5",
+    "react-particle-backgrounds": "^1.0.4",
+    "react-reveal": "^1.2.2",
+    "react-scroll-progress-bar": "^1.1.13",
+    "react-scroll-to-top": "^3.0.0",
+    "react-scroll-up": "^1.4.0"
+  }
+}
